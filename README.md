@@ -149,8 +149,15 @@ Maybe include these extras:
 - Math tool with advanced functions 
 # 📄 License 
 This project was made to help learn, being part of a task on building websites. 
-# 👤 Author 
-Started during the Unified Mentor internship effort - this came together through hands-on work instead of just theory. 
+# 👤 About the Developer
+Nanditha Krishna EM
+- Frontend Web Developer intern at  Unified Mentor
+this came together through hands-on work instead of just theory.
+
+📞 Contact
+- github   : https://github.com/nandithakrishna9778/Basic-Calculator-UMinternship-project1
+- email    : emnanditha@gmail.com
+- LinkedIn : www.linkedin.com/in/nanditha-krishna-em
 # 🙏 Acknowledgments 
 - Project requirements provided by Unified Mentor 
 A fresh take on calculators, styled like the ones on iPhones 
