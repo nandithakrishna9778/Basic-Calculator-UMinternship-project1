@@ -50,10 +50,12 @@ Extra Features
 
 calculator-project/ 
 
-│
-├── index.html Main HTML structure 
-├── style.css Controls how to style and layout  
+├── index.html Main HTML structure
+
+├── style.css Controls how to style and layout
+
 ├── script.js Handles calculator functionality
+
 |── README.md Project documentation 
 
 # 🎯 How to Use 
@@ -87,30 +89,30 @@ Using Keyboard
 3. No need for a server – this app works right inside your browser 
 # Testing Guide 
 Basic Operations 
-- Check: 5 along with 3 makes 8 ✓ 
+- Check: 5 along with 3 makes 8 ✔
 - Check: 10 minus 4 makes 6 ✔
 - Check: 6 times 7 makes 42 ✔ 
 - Check: 20 divided by 4 equals 5 ✔ 
 
 Order of Operations (BODMAS/BIDMAS) 
-- Check: 2 plus 3 times 4 gives 14 ✓ (not twenty) 
-- Check: 10 minus 2 times 3 gives 4 ✓ (not 24) 
-- Check: 8 divided by 2 then add 3 makes 7 ✓
+- Check: 2 plus 3 times 4 gives 14 ✔ (not twenty) 
+- Check: 10 minus 2 times 3 gives 4 ✔ (not 24) 
+- Check: 8 divided by 2 then add 3 makes 7 ✔
  
 Decimal Calculations 
-- Check: 5.5 together with 2.3 makes 7.8 ✓ 
+- Check: 5.5 together with 2.3 makes 7.8 ✔ 
 - Check: 10.5 split by 2 gives 5.25 ✔
  
 Error Handling 
-- Check: 5 ÷ 0 → "Division by zero isn't possible" ✓ 
-- Test: √(-4) = "Cannot calculate square root of negative number" ✓ 
+- Check: 5 ÷ 0 → "Division by zero isn't possible" ✔ 
+- Test: √(-4) = "Cannot calculate square root of negative number" ✔ 
 
 Advanced Features 
 - Check: √16 equals 4 ✔ 
 - Check: √25 = 5 ✔ 
 
 Keyboard Input 
-- Check every shortcut shown up there ✓ 
+- Check every shortcut shown up there ✔ 
 # 🎨 Design Features 
 - Modern UI: Clean, dark-themed interface with gradient background 
 - Color-Coded Buttons: 
