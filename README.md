@@ -56,7 +56,7 @@ calculator-project/
 
 ├── script.js Handles calculator functionality
 
-|── README.md Project documentation 
+├── README.md Project documentation 
 
 # 🎯 How to Use 
 
@@ -122,5 +122,40 @@ Keyboard Input
 - Green: Equals 
 - Purple: Special functions 
 - Hover Effects: Buttons rise slightly when you mouse over them - gives a clearer response 
-- Responsive Layout: Adapts to different screen sizes 
+- Responsive Layout: Adapts to different screen sizes
+# 🛠 Technologies Used 
+
+- HTML5: Structure and semantic markup 
+CSS3 handles styling plus brings life to elements with smooth animations - also adapts layout for different screen sizes using flexible setups 
+- JavaScript (ES6): handles logic, runs calculations, also adds interactive features 
+# 📝 Code Quality 
+The code sticks to solid habits
+- Use words that show what the value or task does 
+- Clear notes that show how things work 
+- Handle errors correctly when things get weird 
+- Neat code layout but also keeps things sorted properly 
+- Doesn't need anything extra to work 
+# Known Limitations 
+- Big numbers might spill past the screen 
+- Tough formulas with brackets don't work yet - might come later 
+- Memory functions (M+, M-, MR, MC) not included in this version 
+# 🔮 Future Enhancements 
+Maybe include these extras: 
+( ) help when math gets tricky - use them to group parts so it’s clearer what goes together 
+- Memory functions (M+, M-, MR, MC) 
+- Percentage calculations 
+- Past math operations 
+- Pick your vibe - light or dark 
+- Math tool with advanced functions 
+# 📄 License 
+This project was made to help learn, being part of a task on building websites. 
+# 👤 Author 
+Started during the Unified Mentor internship effort - this came together through hands-on work instead of just theory. 
+# 🙏 Acknowledgments 
+- Project requirements provided by Unified Mentor 
+A fresh take on calculators, styled like the ones on iPhones 
+# 
+Note: Works in any current browser like Chrome, Firefox, Safari, or Edge. To get smooth results, pick the newest version of your go-to browser. 
+
+  
   
