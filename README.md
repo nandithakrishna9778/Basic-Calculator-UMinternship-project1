@@ -1,6 +1,6 @@
 # Basic Calculator 
 A working calculator made using HTML, CSS, and JavaScript - handles simple math tasks while following correct operation sequence (like BODMAS or BIDMAS rules). 
-# 📋 Project Overview 
+#  Project Overview 
 This calculator project demonstrates front-end development skills including: 
 
 Clean layout that works well on any device 
@@ -12,7 +12,7 @@ Clean layout that works well on any device
 - You can use a keyboard to type stuff 
 
 - Fancy stuff such as working out square roots 
-# 🚀 Features 
+#  Features 
 
 Core Features 
 
@@ -46,7 +46,7 @@ Extra Features
 
 - Responsive Design: Works on different screen sizes
 
-# 📁 File Structure 
+#  File Structure 
 
 calculator-project/ 
 
@@ -58,7 +58,7 @@ calculator-project/
 
 ├── README.md Project documentation 
 
-# 🎯 How to Use 
+#  How to Use 
 
 Using Mouse/Touch 
 
@@ -77,7 +77,7 @@ Using Keyboard
 - Calculate: Press Enter or = 
 - Clear: Press Escape or C 
 - Backspace: Delete last character 
-# 💻 Installation & Setup 
+#  Installation & Setup 
 
 1. Grab every file. Put them in one folder together 
 - index.html 
@@ -113,7 +113,7 @@ Advanced Features
 
 Keyboard Input 
 - Check every shortcut shown up there ✔ 
-# 🎨 Design Features 
+#  Design Features 
 - Modern UI: Clean, dark-themed interface with gradient background 
 - Color-Coded Buttons: 
 - Gray: Numbers 
@@ -123,12 +123,12 @@ Keyboard Input
 - Purple: Special functions 
 - Hover Effects: Buttons rise slightly when you mouse over them - gives a clearer response 
 - Responsive Layout: Adapts to different screen sizes
-# 🛠 Technologies Used 
+#  Technologies Used 
 
 - HTML5: Structure and semantic markup 
 CSS3 handles styling plus brings life to elements with smooth animations - also adapts layout for different screen sizes using flexible setups 
 - JavaScript (ES6): handles logic, runs calculations, also adds interactive features 
-# 📝 Code Quality 
+#  Code Quality 
 The code sticks to solid habits
 - Use words that show what the value or task does 
 - Clear notes that show how things work 
@@ -139,7 +139,7 @@ The code sticks to solid habits
 - Big numbers might spill past the screen 
 - Tough formulas with brackets don't work yet - might come later 
 - Memory functions (M+, M-, MR, MC) not included in this version 
-# 🔮 Future Enhancements 
+#  Future Enhancements 
 Maybe include these extras: 
 ( ) help when math gets tricky - use them to group parts so it’s clearer what goes together 
 - Memory functions (M+, M-, MR, MC) 
@@ -147,18 +147,18 @@ Maybe include these extras:
 - Past math operations 
 - Pick your vibe - light or dark 
 - Math tool with advanced functions 
-# 📄 License 
+#  License 
 This project was made to help learn, being part of a task on building websites. 
-# 👤 About the Developer
+#  About the Developer
 Nanditha Krishna EM
 - Frontend Web Developer intern at  Unified Mentor
 this came together through hands-on work instead of just theory.
 
-📞 Contact
+Contact
 - github   : https://github.com/nandithakrishna9778/Basic-Calculator-UMinternship-project1
 - email    : emnanditha@gmail.com
 - LinkedIn : www.linkedin.com/in/nanditha-krishna-em
-# 🙏 Acknowledgments 
+# Acknowledgments 
 - Project requirements provided by Unified Mentor 
 A fresh take on calculators, styled like the ones on iPhones 
 # 
