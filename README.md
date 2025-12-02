@@ -5,8 +5,6 @@ This calculator project demonstrates front-end development skills including:
 
 Clean layout that works well on any device 
 
-- Interactive features using JS to handle math tasks 
-
 - Making sure weird situations don’t break things 
 
 - You can use a keyboard to type stuff 
@@ -46,18 +44,6 @@ Extra Features
 
 - Responsive Design: Works on different screen sizes
 
-#  File Structure 
-
-calculator-project/ 
-
-├── index.html Main HTML structure
-
-├── style.css Controls how to style and layout
-
-├── script.js Handles calculator functionality
-
-├── README.md Project documentation 
-
 #  How to Use 
 
 Using Mouse/Touch 
@@ -76,17 +62,7 @@ Using Keyboard
 - Tap the dot button when you need a decimal point. 
 - Calculate: Press Enter or = 
 - Clear: Press Escape or C 
-- Backspace: Delete last character 
-#  Installation & Setup 
-
-1. Grab every file. Put them in one folder together 
-- index.html 
-- style.css 
-- script.js
-2. Open the calculator: 
-- Just hit double-click on index.html so it opens in your go-to browser 
-- Alternatively, hit right-click then pick "Open with" to go for a particular browser 
-3. No need for a server – this app works right inside your browser 
+- Backspace: Delete last character  
 # Testing Guide 
 Basic Operations 
 - Check: 5 along with 3 makes 8 
@@ -113,32 +89,11 @@ Advanced Features
 
 Keyboard Input 
 - Check every shortcut shown up there  
-#  Design Features 
-- Modern UI: Clean, dark-themed interface with gradient background 
-- Color-Coded Buttons: 
-- Gray: Numbers 
-- Orange: Operators 
-- Red: Clear 
-- Green: Equals 
-- Purple: Special functions 
-- Hover Effects: Buttons rise slightly when you mouse over them - gives a clearer response 
-- Responsive Layout: Adapts to different screen sizes
 #  Technologies Used 
 
-- HTML5: Structure and semantic markup 
-CSS3 handles styling plus brings life to elements with smooth animations - also adapts layout for different screen sizes using flexible setups 
-- JavaScript (ES6): handles logic, runs calculations, also adds interactive features 
-#  Code Quality 
-The code sticks to solid habits
-- Use words that show what the value or task does 
-- Clear notes that show how things work 
-- Handle errors correctly when things get weird 
-- Neat code layout but also keeps things sorted properly 
-- Doesn't need anything extra to work 
-# Known Limitations 
-- Big numbers might spill past the screen 
-- Tough formulas with brackets don't work yet - might come later 
-- Memory functions (M+, M-, MR, MC) not included in this version 
+- HTML5: Structure and semantic markup
+- CSS handles styling plus brings life to elements with smooth animations - also adapts layout for different screen sizes using flexible setups 
+- JavaScript: handles logic, runs calculations, also adds interactive features  
 #  Future Enhancements 
 Maybe include these extras: 
 ( ) help when math gets tricky - use them to group parts so it’s clearer what goes together 
