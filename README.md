@@ -1,28 +1,18 @@
 # Basic Calculator 
 A working calculator made using HTML, CSS, and JavaScript - handles simple math tasks while following correct operation sequence (like BODMAS or BIDMAS rules). 
-#  Project Overview 
-This calculator project demonstrates front-end development skills including: 
-
-Clean layout that works well on any device 
-
-- Making sure weird situations don’t break things 
-
-- You can use a keyboard to type stuff 
-
-- Fancy stuff such as working out square roots 
 #  Features 
 
 Core Features 
 
-- Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (×), Division (/) 
+- Basic Arithmetic Operations like Addition (+), Subtraction (-), Multiplication (×), Division (/) 
 
-- BODMAS/BIDMAS Support: Follows correct order of operations 
+- BODMAS/BIDMAS are used in this so it will run smootly and orderly  
 
-- Decimal Support: Perform calculations with decimal numbers 
+- Decimal values also support
 
 - Clear Function: Reset calculator to start fresh 
 
-- Live View: Displays the expression along with what you're typing or the answer so far 
+- Numbers can be postive or negative
 
 Error Handling 
 
