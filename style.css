@@ -5,7 +5,7 @@
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #d9dbe1 0%, #f5f3f7 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,6 +73,7 @@ button:active {
 .operator {
     background: #ff9500;
 }
+
 .operator:hover {
     background: #ffaa33;
 }
@@ -98,8 +99,9 @@ button:active {
 .special {
     background: #ffaa33;
 }
+
 .special:hover {
-    background: #7674e8;
+    background: #ececef;
 }
 h1 {
     text-align: center;
